@@ -1,0 +1,14 @@
+{
+  "name": "cache",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "qishuixian <shuixian.qi@happy-seed.com>",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "fs-extra": "^10.0.0",
+    "koa": "^2.13.4",
+    "koa-router": "^10.1.1",
+    "mime": "^3.0.0"
+  }
+}
